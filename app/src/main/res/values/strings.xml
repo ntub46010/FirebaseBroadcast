@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseBroadcast</string>
+    <string name="firebase_server_key" translatable="false">key=AAAAOsMNesM:APA91bF4A1T59CeETSZNpGHMzxLvobuZpZ1QzbfMKGXqqIKSwTrZtfNu3McNq6zxk0djs9VbRu3_WEtYy5FAdsmeeVzgaLADEXRyaqprvJqWl3hPo0kf-sD53aYP1OAAu_Iu45TsXpXo</string>
+    <string name="firebase_cloud_messaging_url">https://fcm.googleapis.com/fcm/send</string>
+</resources>
